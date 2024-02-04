@@ -1,0 +1,1 @@
+Google maps api(disabled search of place with geocoder), SqLite.
